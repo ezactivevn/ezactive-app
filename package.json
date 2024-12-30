@@ -1,0 +1,14 @@
+{
+  "name": "ezactive-app",
+  "version": "1.0.0",
+  "description": "EZ Active App",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Tien Le",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^33.2.1"
+  }
+}
